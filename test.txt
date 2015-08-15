@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 testing line is added
 \\asdfsadf	
+=======
+>>>>>>> parent of 9057514... changed test.txt
